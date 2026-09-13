@@ -1,0 +1,1 @@
+import{B as e,I as t,O as n,g as r,m as i,t as a,y as o}from"./_plugin-vue_export-helper-D6YA-NQK.js";n();var s={},c={class:`loading-block`};function l(n,a){return t(),o(`div`,c,[(t(),o(i,null,e(12,e=>r(`div`)),64))])}var u=a(s,[[`render`,l],[`__scopeId`,`data-v-f8aaee0c`]]);export{u as t};

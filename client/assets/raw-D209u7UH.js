@@ -1,0 +1,1 @@
+import{I as e,O as t,t as n,y as r}from"./_plugin-vue_export-helper-D6YA-NQK.js";t();var i={},a=[`value`];function o(t,n){return e(),r(`textarea`,{readonly:``,value:t.data.content},null,8,a)}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-8730be9a`]]);export{s as default};

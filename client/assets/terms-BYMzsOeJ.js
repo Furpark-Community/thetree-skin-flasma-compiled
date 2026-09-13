@@ -1,0 +1,1 @@
+import{H as e,I as t,O as n,_ as r,t as i}from"./_plugin-vue_export-helper-D6YA-NQK.js";import{t as a}from"./terms-G50ykn3X.js";n();var o={components:{Terms:a}};function s(n,i,a,o,s,c){let l=e(`Terms`,!0);return t(),r(l)}var c=i(o,[[`render`,s]]);export{c as default};

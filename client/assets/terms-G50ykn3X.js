@@ -1,0 +1,1 @@
+import{I as e,O as t,t as n,y as r}from"./_plugin-vue_export-helper-D6YA-NQK.js";t();var i={},a=[`innerHTML`];function o(t,n){return e(),r(`pre`,{innerHTML:t.data.terms},null,8,a)}var s=n(i,[[`render`,o],[`__scopeId`,`data-v-09d69405`]]);export{s as t};
