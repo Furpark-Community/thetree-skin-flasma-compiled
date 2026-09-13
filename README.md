@@ -1,12 +1,12 @@
-\# thetree-skin-flasma-compiled
+# thetree-skin-flasma-compiled
 
 
 
-이 파일은 \[퍼파크 위키](https://wiki.furpark.kr)에서 사용되는 전용 스킨 Flasma의 컴파일본입니다.
+이 파일은 [퍼파크 위키](https://wiki.furpark.kr)에서 사용되는 전용 스킨 Flasma의 컴파일본입니다.
 
 
 
-컴파일에 사용한 thetree-frontend는 \[wjdgustn/thetree-frontend](https://github.com/wjdgustn/thetree-frontend)에서 확인할 수 있습니다.
+컴파일에 사용한 thetree-frontend는 [wjdgustn/thetree-frontend](https://github.com/wjdgustn/thetree-frontend)에서 확인할 수 있습니다.
 
 
 
@@ -14,9 +14,9 @@
 
 
 
-\# 확장기능
+# 확장기능
 
-&#x20;\* 사용자 문서 프로필
+ * 사용자 문서 프로필
 
-&#x20;\* 상위 문서 표시
+ * 상위 문서 표시
 
